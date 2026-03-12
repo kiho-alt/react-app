@@ -1,0 +1,8 @@
+/* CSSはコンポーネントごとに分けて作る
+CSSのクラス名は2つ以上の単語を使う場合は、キャメルケース（buttonInner）大文字で繋げるやつを使う */
+
+.button {
+  padding: 10px 20px;
+  background: #f00;
+  color: #fff;
+}
